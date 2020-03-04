@@ -762,7 +762,7 @@ iframe {
 .fb_chat_mb{
   position: fixed;
   width: 60px;
-  bottom: 91px;
+  bottom: 71px;
   right: 10px;
   z-index: 999;
 }
