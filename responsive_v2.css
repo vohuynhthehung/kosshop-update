@@ -109,6 +109,10 @@ iframe {
     list-style: none;
     padding-left: 0;
   }
+  .product_page .pd_main_detail .sizeKhac ul li{
+    float: left;
+    margin-bottom: 5px;
+  }
   .product_page .pd_main_detail .imgSizeKhacBox{
     border: 1px solid #ccc;
     width: 60px;
@@ -313,11 +317,11 @@ iframe {
       margin-bottom: 25px; }
 
     .product_page .pd_main_img .pd_img_slide img{
-      max-height: 45vh;
+      max-height: 40vh;
       max-width: 100%;
       width: auto;
       text-align: center;
-      display: inherit;
+      display: inline-block;
     }
 
     .product_page .pd_main_img .pd_img_carousel img{
