@@ -285,12 +285,10 @@ function refreshGalleryByOption(slide, carousel) {
         dots: false,
         responsive: {
             0: {
-                items: 3,
-                nav: false
+                items: 3
             },
             480: {
-                items: 5,
-                nav: false
+                items: 5
             }
         },
         navText: ['<i class="glyphicon glyphicon-menu-left"></i>', '<i class="glyphicon glyphicon-menu-right"></i>']
