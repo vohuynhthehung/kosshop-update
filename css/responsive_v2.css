@@ -105,29 +105,6 @@ iframe {
 
 }
 @media (max-width: 991px) {
-  .product_page .pd_main_detail .sizeKhac ul{
-    list-style: none;
-    padding-left: 0;
-  }
-  .product_page .pd_main_detail .sizeKhac ul li{
-    float: left;
-    margin-bottom: 5px;
-  }
-  .product_page .pd_main_detail .imgSizeKhacBox{
-    border: 1px solid #ccc;
-    width: 60px;
-    height: 60px;
-    border-radius: 4px;
-    text-align: center;
-    align-items: center;
-    float: left;
-    margin-right: 5px;
-  }
-  .product_page .pd_main_detail .imgSizeKhacBox img{
-    width: auto;
-    max-width: 56px;
-    max-height: 56px;
-  }
   .sidepd_list .sidepd_one .sidepd_one_img .hot_flash {
     width: 30px;
     height: 30px;
@@ -549,15 +526,6 @@ iframe {
     .product .product_price {
       font-size: 17px; 
       margin-bottom: 10px;
-    }
-    .price_list del{
-      font-weight: normal;
-      color: #777;
-      font-size: 13px !important;
-      margin-right: 5px;
-    }
-    .price_list span{
-      font-size: 11px;
     }
       .product .product_price ins {
         font-size: 22px;
