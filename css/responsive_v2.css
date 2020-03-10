@@ -294,11 +294,16 @@ iframe {
       margin-bottom: 25px; }
 
     .product_page .pd_main_img .pd_img_slide img{
+      width: auto;
       max-height: 40vh;
       max-width: 100%;
-      width: auto;
       text-align: center;
       display: inline-block;
+    }
+
+    .product_page .pd_main_img .pd_img_slide img.lazyload{
+      width: auto;
+      height: 40vh;
     }
 
     .product_page .pd_main_img .pd_img_carousel img{

@@ -5730,6 +5730,12 @@ left: 20px;
 }
 
 
+@media(max-width: 767px){
+    .pd_content_list{
+        display: none;
+    }
+}
+
 
 .pd_content_list li {
 
