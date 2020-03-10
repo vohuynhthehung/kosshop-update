@@ -2609,6 +2609,10 @@ left: 20px;
 
 }
 
+.product .product_img .pd_main_img img {
+    max-height: 262px;
+}
+
 .product .product_img .pd_main_img .tag-discount{
 
     display: none;
